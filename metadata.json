@@ -1,0 +1,5 @@
+{
+  "name": "Back-bar-Manager-V1.1-Clouflare",
+  "description": "Version 1.1 Cloudflare Edition. Gestion de stock pour bar d'hôtel avec base de données Neon via Neon Serverless Driver.",
+  "requestFramePermissions": []
+}

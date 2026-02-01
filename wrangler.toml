@@ -1,0 +1,7 @@
+name = "barstock-pro"
+compatibility_date = "2024-01-01"
+pages_build_output_dir = "dist"
+
+# Les variables d'environnement (DATABASE_URL, API_KEY) doivent être définies 
+# dans le tableau de bord Cloudflare Pages (Settings > Environment variables).
+# Ne pas les mettre ici pour des raisons de sécurité.

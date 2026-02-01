@@ -1,0 +1,32 @@
+ROADMAP - BARSTOCK PRO
+======================
+
+1. GESTION DES RECETTES & PRODUITS COMPOSÉS
+   - Prise en charge des fiches produits pour les cocktails.
+   - Gestion des produits composés (ex: Pré-mix, Sirops maison).
+   - Décrémentation des stocks des ingrédients unitaires lors de la vente d'un composé.
+
+2. DÉDUCTION AUTOMATIQUE (IMPORT EXCEL)
+   - Prise en charge de la déduction automatique des articles via l'import d'un fichier Excel (rapport de ventes journalier).
+   - Mapping entre les libellés de vente et les articles en stock.
+
+3. FICHES TECHNIQUES ARTICLES (KNOWLEDGE BASE)
+   - Fiche article détaillée avec moteur de recherche.
+   - Affichage des caractéristiques (Goût, Origine, Degré, Allergènes) pour aider les barmans à conseiller les clients.
+
+4. INGÉNIERIE COCKTAIL & COÛTS
+   - Moteur de création de cocktails en fonction des stocks disponibles ("Qu'est-ce que je peux faire avec ce qu'il reste ?").
+   - Calcul automatique des coûts de production (Food Cost) et des marges théoriques.
+
+5. INTÉGRATION POS (ASTÉRIO)
+   - Connexion avec le POS Astério via API.
+   - Déduction automatique en temps réel à chaque vente enregistrée en caisse.
+
+6. OPTIMISATION & ANALYSE (NOUVEAU)
+   - Optimisation des espaces de stockage (calcul de capacité vs stock réel).
+   - Analyse des flux d'articles (rotation, produits dormants).
+   - Proposition de consignes optimisées basées sur l'historique de consommation.
+
+7. AMÉLIORATIONS UX (NOUVEAU)
+   - Gestion avancée de l'historique de réception (consolidation par journée bar, validation manuelle des quantités).
+   - Alertes "Articles sous tension" pour une meilleure visibilité des ruptures.
